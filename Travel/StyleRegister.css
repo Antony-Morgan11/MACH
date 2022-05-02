@@ -1,0 +1,27 @@
+@charset "utf-8";
+body {
+    background-image: url(url), -webkit-linear-gradient(270deg,rgba(184,231,199,1.00) 0%,rgba(147,216,181,1.00) 44.56%,rgba(21,169,137,1.00) 100%);
+    background-image: url(url), -moz-linear-gradient(270deg,rgba(184,231,199,1.00) 0%,rgba(147,216,181,1.00) 44.56%,rgba(21,169,137,1.00) 100%);
+    background-image: url(url), -o-linear-gradient(270deg,rgba(184,231,199,1.00) 0%,rgba(147,216,181,1.00) 44.56%,rgba(21,169,137,1.00) 100%);
+    background-image: url(url), linear-gradient(180deg,rgba(184,231,199,1.00) 0%,rgba(147,216,181,1.00) 44.56%,rgba(21,169,137,1.00) 100%);
+    background-attachment: fixed;
+    -webkit-box-shadow: inset -52px 30px 58px -30px rgba(163,253,207,1.00);
+    box-shadow: inset -52px 30px 58px -30px rgba(163,253,207,1.00);
+    text-align: left;
+    text-shadow: 0px 0px;
+    text-transform: none;
+    padding-top: 38%;
+    padding-left: 38%;
+    padding-right: 38%;
+    padding-bottom: 38%;
+    border-top-right-radius: 680%;
+    border-bottom-right-radius: 681%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    display: inline-table;
+    opacity: 1;
+    letter-spacing: 5px;
+    word-spacing: 6px;
+    border-top-left-radius: 0px;
+}
