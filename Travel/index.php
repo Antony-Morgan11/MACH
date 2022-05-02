@@ -125,7 +125,7 @@ if (!((isset($_SESSION['MM_Username'])) && (isAuthorized("",$MM_authorizedUsers,
       </div>
       <a class="carousel-control-prev" href="#carouselExampleIndicators1" role="button" data-slide="prev"> <span class="carousel-control-prev-icon" aria-hidden="true"></span> <span class="sr-only">Previous</span> </a> <a class="carousel-control-next" href="#carouselExampleIndicators1" role="button" data-slide="next"> <span class="carousel-control-next-icon" aria-hidden="true"></span> <span class="sr-only">Next</span> </a> </div>
     <h1 class="text-center">&nbsp; &nbsp;&nbsp;</h1>
-    <h1 class="text-center">Welcome To Our Website&nbsp; &nbsp;&nbsp;</h1>
+    <h1 class="text-center">Welcome To San Jose&nbsp; &nbsp;&nbsp;</h1>
     <p class="text-center">We take you places</p>
     <div class="row">
       <div class="col-lg-6">
